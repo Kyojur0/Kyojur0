@@ -1,3 +1,4 @@
-Yoo, my name is Haroon Ayaz. I'm a undergraduate computer science student. 
-My fields of interest are quite diverse web-development, block chain, artificial intelligence
-anime you name it :D 
+Yoo, I'm a bachelor's graduate in computer science. 
+My fields of interest are quite diverse web-development, block chain, artificial intelligence you name it :D 
+
+And oh yea i also like to talk about anime :p
